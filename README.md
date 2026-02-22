@@ -142,6 +142,3 @@ Resultado: Jogador 1 Venceu! PARABÉNS!
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
-Grasielle Rodrigues Costa
-Em transição de carreira para a área de Análise de Dados, desenvolvendo projetos práticos em Python para fortalecer lógica e programação.
